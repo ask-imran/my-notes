@@ -10,7 +10,7 @@ aux_links:
 
 # Specify the directories to be processed
 include:
-  - _docs
+  - docs
 
 nav:
   - title: Kubernetes
