@@ -7,6 +7,24 @@ url: https://ask-imran.github.io/my-notes
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
+
+# Specify the directories to be processed
+include:
+  - _docs
+
+nav:
+  - title: Kubernetes
+    items:
+      - text: "101"
+        url: /docs/k8s/101
+  - title: DynamoDB
+    items:
+      - text: "101"
+        url: /docs/dynamodb/101
+
+# Specify the permalink structure
+permalink: pretty
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
