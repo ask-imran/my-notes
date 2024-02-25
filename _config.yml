@@ -12,16 +12,6 @@ aux_links:
 include:
   - docs
 
-nav:
-  - title: Kubernetes
-    items:
-      - text: "101"
-        url: /docs/k8s/101
-  - title: DynamoDB
-    items:
-      - text: "101"
-        url: /docs/dynamodb/101
-
 # Specify the permalink structure
 permalink: pretty
 
